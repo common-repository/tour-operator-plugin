@@ -1,0 +1,232 @@
+# Copyright (C) 2021 TourCMS
+# This file is distributed under the same license as the TourCMS plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: TourCMS 1.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tour-operator-plugin\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-04T10:44:03+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: tour-operator-plugin\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "TourCMS"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://www.tourcms.com/support/webdesign/wordpress/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Integrate WordPress with TourCMS to aid creating specialist Tour, Activity and Accommodation Operator websites."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.tourcms.com"
+msgstr ""
+
+#: tourcms-plugin.php:132
+msgid "Face masks required for travelers"
+msgstr ""
+
+#: tourcms-plugin.php:133
+msgid "Face masks required for guides"
+msgstr ""
+
+#: tourcms-plugin.php:134
+msgid "Face masks provided for travelers"
+msgstr ""
+
+#: tourcms-plugin.php:135
+msgid "Hand sanitizer available to travelers and staff"
+msgstr ""
+
+#: tourcms-plugin.php:136
+msgid "Social distancing enforced throughout experience"
+msgstr ""
+
+#: tourcms-plugin.php:137
+msgid "Regularly sanitized high-traffic areas"
+msgstr ""
+
+#: tourcms-plugin.php:138
+msgid "Gear/equipment sanitized between use"
+msgstr ""
+
+#: tourcms-plugin.php:139
+msgid "Transportation vehicles regularly sanitized"
+msgstr ""
+
+#: tourcms-plugin.php:140
+msgid "Guides required to wash hands"
+msgstr ""
+
+#: tourcms-plugin.php:141
+msgid "Regular temperature checks for staff"
+msgstr ""
+
+#: tourcms-plugin.php:142
+msgid "Temperature checks for travelers upon arrival"
+msgstr ""
+
+#: tourcms-plugin.php:143
+msgid "Contactless payments for gratuities and add-ons"
+msgstr ""
+
+#: tourcms-plugin.php:219
+msgid "Field"
+msgstr ""
+
+#: tourcms-plugin.php:220
+msgid "Value"
+msgstr ""
+
+#: tourcms-plugin.php:225
+msgid "Last updated"
+msgstr ""
+
+#: tourcms-plugin.php:240
+msgid "Tour name"
+msgstr ""
+
+#: tourcms-plugin.php:244
+msgid "Tour ID"
+msgstr ""
+
+#: tourcms-plugin.php:248
+msgid "Tour code"
+msgstr ""
+
+#: tourcms-plugin.php:252
+msgid "Priority"
+msgstr ""
+
+#: tourcms-plugin.php:256
+msgid "On sale"
+msgstr ""
+
+#: tourcms-plugin.php:273
+msgid "Book url"
+msgstr ""
+
+#: tourcms-plugin.php:284
+msgid "From price (display)"
+msgstr ""
+
+#: tourcms-plugin.php:288
+msgid "From price"
+msgstr ""
+
+#: tourcms-plugin.php:292
+msgid "Sale currency"
+msgstr ""
+
+#: tourcms-plugin.php:296
+msgid "Primary location"
+msgstr ""
+
+#: tourcms-plugin.php:300
+msgid "Geocode start (Long, Lat)"
+msgstr ""
+
+#: tourcms-plugin.php:304
+msgid "Geocode end (Long, Lat)"
+msgstr ""
+
+#: tourcms-plugin.php:308
+msgid "All gecodes"
+msgstr ""
+
+#: tourcms-plugin.php:333
+msgid "Duration description"
+msgstr ""
+
+#: tourcms-plugin.php:337
+msgid "Available"
+msgstr ""
+
+#: tourcms-plugin.php:341
+msgid "Images"
+msgstr ""
+
+#: tourcms-plugin.php:356
+msgid "Video"
+msgstr ""
+
+#: tourcms-plugin.php:370
+msgid "Document"
+msgstr ""
+
+#: tourcms-plugin.php:382
+msgid "Summary"
+msgstr ""
+
+#: tourcms-plugin.php:387
+msgid "Essential"
+msgstr ""
+
+#: tourcms-plugin.php:391
+msgid "Restrictions"
+msgstr ""
+
+#: tourcms-plugin.php:396
+msgid "Pick up / drop off"
+msgstr ""
+
+#: tourcms-plugin.php:400
+msgid "Includes"
+msgstr ""
+
+#: tourcms-plugin.php:404
+msgid "Excludes"
+msgstr ""
+
+#: tourcms-plugin.php:408
+msgid "Extras / upgrades"
+msgstr ""
+
+#: tourcms-plugin.php:412
+msgid "Itinerary"
+msgstr ""
+
+#: tourcms-plugin.php:416
+msgid "Experience"
+msgstr ""
+
+#: tourcms-plugin.php:420
+msgid "Redemption instructions"
+msgstr ""
+
+#: tourcms-plugin.php:424
+msgid "Short description"
+msgstr ""
+
+#: tourcms-plugin.php:429
+msgid "Long description"
+msgstr ""
+
+#: tourcms-plugin.php:458
+msgid "Suitable for solo"
+msgstr ""
+
+#: tourcms-plugin.php:463
+msgid "Suitable for couples"
+msgstr ""
+
+#: tourcms-plugin.php:468
+msgid "Suitable for children"
+msgstr ""
+
+#: tourcms-plugin.php:473
+msgid "Suitable for groups"
+msgstr ""
+
+#: tourcms-plugin.php:478
+msgid "Suitable for business"
+msgstr ""
